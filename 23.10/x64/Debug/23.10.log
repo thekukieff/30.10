@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Deck.cpp
+  Hand.cpp
+  main.cpp
+C:\Users\Top\Source\Repos\23.10\Hand.cpp(10,15): error C2228: выражение слева от ".erase" должно представлять класс, структуру или объединение
+  Создание кода...
